@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+# Virtual environments
+.venv/
+myenv/
+# Secrets
+.env
+.env.*
+!.env.example
+# ADK / local runtime state
+.adk/
+**/.adk/
+*.db
+# Runtime database state
+data/wal/
+data/chunks_head/
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Logs
+*.log

@@ -1,0 +1,10 @@
+{
+  "project": "The Last Signal",
+  "production_day": 23,
+  "incident": {
+    "type": "actor_unavailable",
+    "actor": "Maya Chen",
+    "scene": "42",
+    "scheduled_date": "tomorrow"
+  }
+}
